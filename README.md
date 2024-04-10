@@ -1,3 +1,4 @@
-# Adherence-to-Mediterranean-and-MIND-Diets-and-cancer
-Research regaring the association between dietary adherence and cancer risk is limited, particularly overall cancer risk and its underlying mechanisms. Based on 187,485 participants in UK Biobank with follow-up time up to 15.7 years, we investigated the associations between adherence to a Mediterranean diet (MedDiet) or a Mediterranean-DASH Diet Intervention for Neurodegenerative Delay diet (MINDDiet) and the risk of overall, and 22 specific cancers. Both MedDiet and MINDDiet adherence showed significant negative assocations with overall cancer risk, exhibiting robustness across 14 and 13 specific cancers, respectively. Then, a sequential analysis, incorporating Cox regression, elastic net and gradient boost models, identified 10 metabolites associated with overall cancer risk. Our mediation results further indicated that these metabolites play a crucial role in the association between adherence to a MedDiet or a MINDDiet and cancer risk, independently and cumulatively. These findings deepen our understanding of the intricate connections between diet, metabolites, and cancer development.
+# DOI: 10.5281/zenodo.10953470
+DOI: 10.5281/zenodo.10953470
+
 
